@@ -57,7 +57,7 @@ body {
 }
 
 .circle {
-  background-color: #1f1f1f;
+  background-color: #1f1f1e;
   color:#e2e2e2;
   border-radius: 50%;
   height: 50px;
@@ -87,3 +87,4 @@ body {
 .btn:focus {
   outline: 0;
 }
+
